@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 16, 2018 
+### Day 0: July 17, 2018 
 ##### 
 
 **Today's Progress**: 
