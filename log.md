@@ -24,3 +24,14 @@
 * Two cases, one with just the 4 directions and one with 6 for the next set of north and west to intersect. Done with geometric requirements of distances to cross a path
 
 **Link to work:** 
+
+### Day 2: July 22, 2018 
+##### 
+
+**Today's Progress**: Tried out the following problems
+* Max binary tree
+* Removing duplicates from linked list
+
+**Thoughts:**  Used recursion for both
+
+**Link to work:** 
