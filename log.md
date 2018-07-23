@@ -35,7 +35,7 @@
 
 **Thoughts:**  Used recursion for first two
 
-* Used Stack based appraoch for calculator  
+* Used Stack based approach for calculator  
   Keep a global running total and a stack of signs (+1 or -1), one for each open scope. The "global" outermost sign is +1.
     - Each number consumes a sign.
     - Each + and - causes a new sign.
