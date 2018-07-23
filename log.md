@@ -36,12 +36,11 @@
 **Thoughts:**  Used recursion for first two
 
 * Used Stack based appraoch for calculator
-Keep a global running total and a stack of signs (+1 or -1), one for each open scope. The "global" outermost sign is +1.
-
-- Each number consumes a sign.
-- Each + and - causes a new sign.
-- Each ( duplicates the current sign so it can be used for the first term inside the new scope. That's also why I start with [1, 1] - the global sign 1 and a duplicate to be used for the first term, since expressions start like 3... or (..., not like +3... or +(....
-- Each ) closes the current scope and thus drops the current sign.
+  Keep a global running total and a stack of signs (+1 or -1), one for each open scope. The "global" outermost sign is +1.
+    - Each number consumes a sign.
+    - Each + and - causes a new sign.
+    - Each ( duplicates the current sign so it can be used for the first term inside the new scope. That's also why I start with [1, 1] - the global sign 1 and a duplicate to be used for the first term, since expressions start like 3... or (..., not like +3... or +(....
+    - Each ) closes the current scope and thus drops the current sign.
 
 
 **Link to work:** 
