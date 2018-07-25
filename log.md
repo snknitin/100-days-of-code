@@ -44,3 +44,20 @@
 
 
 **Link to work:** 
+
+### Day 3: July 24, 2018 
+##### 
+
+**Today's Progress**: Tried out the following problems
+* Minimun number of moves to make all elements equal
+
+
+**Thoughts:**  
+* Using basic b=math. Since two elements are incremented with each move - sum(arr) - len(arr)x min(arr)
+
+
+**Link to work:** 
+
+
+
+
