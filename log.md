@@ -59,5 +59,13 @@
 **Link to work:** 
 
 
+### Day 4: July 25, 2018 
+##### 
+
+**Today's Progress**: Design Patterns for Python
+
+**Thoughts:**  
+
+**Link to work:** 
 
 
