@@ -64,8 +64,8 @@
 
 **Today's Progress**: Design Patterns for Python
 
-**Thoughts:**  
+**Thoughts:**  Learnt about different types of design patterns and how to use them based on context and scenarios. Blogged about it
 
-**Link to work:** 
+**Link to work:** https://medium.com/@snk.nitin/design-patterns-and-where-to-find-them-ab57aef6f62a
 
 
