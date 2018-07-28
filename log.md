@@ -53,7 +53,7 @@
 
 
 **Thoughts:**  
-* Using basic b=math. Since two elements are incremented with each move - sum(arr) - len(arr)x min(arr)
+* Using basic math. Since two elements are incremented with each move - sum(arr) - len(arr)x min(arr)
 
 
 **Link to work:** 
