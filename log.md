@@ -74,6 +74,7 @@
 
 **Today's Progress**: Coding practice
 * Foursum
+* Longest vaid parenthesis
 **Thoughts:**  
 
 **Link to work:** 
