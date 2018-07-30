@@ -69,3 +69,13 @@
 **Link to work:** https://medium.com/@snk.nitin/design-patterns-and-where-to-find-them-ab57aef6f62a
 
 
+### Day 5: July 29, 2018 
+##### 
+
+**Today's Progress**: Coding practice
+* Foursum
+**Thoughts:**  
+
+**Link to work:** 
+
+
