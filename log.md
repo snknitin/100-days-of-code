@@ -80,3 +80,13 @@
 **Link to work:** 
 
 
+### Day 5: July 29, 2018 
+##### 
+
+**Today's Progress**: Coding practice
+* N queens
+**Thoughts:**  
+
+**Link to work:** 
+
+
