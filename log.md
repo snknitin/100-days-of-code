@@ -89,4 +89,11 @@
 
 **Link to work:** 
 
+### Day 6-10: July 29, 2018 - August 4th,2018
+##### 
+
+**Today's Progress**: Reviewed my solved problems from leetcode
+**Thoughts:**  
+
+**Link to work:** 
 
