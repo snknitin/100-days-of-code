@@ -97,3 +97,23 @@
 
 **Link to work:** 
 
+
+
+
+### Day 6-10: September 27th,2018
+##### 
+
+**Today's Progress**: Turn a nested dictionary into a pandas dataframe  
+**Thoughts:**  
+
+```
+dict_table = {}
+for idx,name in enumerate(numeric_features):
+    dict_table[idx]=[name]+[ranks[method][name] for method in methods]
+    
+pd.DataFrame.from_dict(dict_table, orient='index',columns=["feature_names"]+methods)
+
+```
+
+**Link to work:** 
+
